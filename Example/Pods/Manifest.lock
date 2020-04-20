@@ -1,0 +1,16 @@
+PODS:
+  - ExamplePOD (0.1.0)
+
+DEPENDENCIES:
+  - ExamplePOD (from `../`)
+
+EXTERNAL SOURCES:
+  ExamplePOD:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ExamplePOD: 4af2d34a41699d463dee5a9f43e5ba21b8c576d9
+
+PODFILE CHECKSUM: 290873ad3d32ea728e8a55bde0b91c3b49a2c88d
+
+COCOAPODS: 1.8.4
