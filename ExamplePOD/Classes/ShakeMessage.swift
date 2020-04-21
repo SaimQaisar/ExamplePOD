@@ -6,3 +6,7 @@
 //
 
 import Foundation
+
+public func ShakeMessage() -> String {
+    return "Device was Shaken!!!"
+}
